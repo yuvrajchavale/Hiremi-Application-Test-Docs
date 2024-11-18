@@ -1,7 +1,7 @@
 
 # Hiremi App Testing Repository  
 
-![Hiremi App](https://via.placeholder.com/600x300?text=Hiremi+App)  
+![Hiremi App](https://github.com/yuvrajchavale/Hiremi-Application-Test-Docs/blob/main/Untitled%20design.png)  
 
 Welcome to the testing repository for the [Hiremi App](https://play.google.com/store/apps/details?id=com.CRTD.hiremi)! This app empowers users by offering mentorship programs, training, internships, and curated course listings. This repository is dedicated to ensuring its reliability and functionality through structured testing.  
 
